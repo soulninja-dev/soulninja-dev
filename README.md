@@ -16,3 +16,4 @@
 - 📚 studying for exams
 - </> learning full stack development
 - 🔨 building projects (see projects section)
+- 🕷️ meeting new people in discord
