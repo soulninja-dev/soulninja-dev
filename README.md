@@ -17,6 +17,7 @@
 - </> learning full stack development
 - 🔨 building projects (see projects section)
 - 🕷️ meeting new people in discord
+- ✍️ writing blogs [here](https://aadhithyan.hashnode.dev)
 
 ## 👨‍💻 technologies I use
 <img src="https://user-images.githubusercontent.com/68557696/149619443-bc27af27-9c91-43e7-b037-3c25ddc8fd34.png" width="50px"></img>
