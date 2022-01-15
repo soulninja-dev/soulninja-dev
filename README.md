@@ -34,5 +34,32 @@
 <img src="https://user-images.githubusercontent.com/68557696/149619863-c85bac70-6781-49ec-8f0b-83e18983a6e8.png" width="50px"></img>
 <img src="https://user-images.githubusercontent.com/68557696/149619902-6c39bd93-9494-44a4-91f9-e9b6d2139899.png" width="50px"></img>
 <img src="https://user-images.githubusercontent.com/68557696/149619936-e24a20da-dfde-4b25-a19f-13e30f34c4ee.png" width="50px"></img>
+<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoulNinja-dev&exclude_repo=dotfiles&hide_title=true&hide=html,css&layout=compact&bg_color=22272E&text_color=2FBD90&hide_border=true)
 
+## 🔨 projects
+<a href="https://github.com/SoulNinja-dev/Tic-tac-toe">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SoulNinja-dev&repo=Tic-tac-toe&bg_color=22272E&text_color=2FBD90&hide_border=true" width="380">
+</a>
+<a href="https://github.com/SoulNinja-dev/bloggy">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SoulNinja-dev&repo=bloggy&bg_color=22272E&text_color=2FBD90&hide_border=true" width="380">
+</a>
+<br>
+<a href="https://github.com/SoulNinja-dev/todoapp-javafx">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SoulNinja-dev&repo=todoapp-javafx&bg_color=22272E&text_color=2FBD90&hide_border=true" width="380">
+</a>
+<a href="https://github.com/SoulNinja-dev/twt-news">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SoulNinja-dev&repo=twt-news&bg_color=22272E&text_color=2FBD90&hide_border=true" width="380">
+</a>
+<br>
+<a href="https://github.com/SoulNinja-dev/chatroom">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SoulNinja-dev&repo=chatroom&bg_color=22272E&text_color=2FBD90&hide_border=true" width="380">
+</a>
+<a href="https://github.com/SoulNinja-dev/dotfiles">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SoulNinja-dev&repo=dotfiles&bg_color=22272E&text_color=2FBD90&hide_border=true" width="380">
+</a>
 
+## 👐 contribution chart
+<img src="https://github-readme-stats.vercel.app/api?username=SoulNinja-dev&show_icons=true&include_all_commits=true&hide_border=true&bg_color=22272e&color=9BE8A8&text_color=2FBD90&line=9BE8A8&point=40C363">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=SoulNinja-dev&theme=nightowl&hide_border=true&background=22272E&sideLabels=9BE9A8&sideNums=9BE9A8&dates=9BE9A8&ring=40C463&stroke=22272E&fire=40C463&currStreakNum=40C463&currStreakLabel=40C463">
+<img src="https://activity-graph.herokuapp.com/graph?username=SoulNinja-dev&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true">
