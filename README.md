@@ -1,1 +1,1 @@
-soulninja.lol/about
+[here](soulninja.lol)
