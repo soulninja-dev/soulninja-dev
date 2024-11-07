@@ -1,6 +1,6 @@
 [proof of work](https://soulninja.dev)
 
-currently: on a gap year, built [streams.place](https://streams.place), building [wildcard](https://wildcard.lol) and [dripcraft](https://dripcraft.xyz)
+currently: building in solana defi, maintaining [streams.place](https://streams.place), [dripcraft](https://dripcraft.xyz)
 
 interested about:
 - blockchain
